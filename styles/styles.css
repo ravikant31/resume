@@ -271,7 +271,7 @@ body {
     }
 
     .resume_section .resume_contact {
-        gap: 10px 10px;
+        gap: 2px 5px;
         grid-template-columns: auto auto;
     }
 
